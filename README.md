@@ -5,16 +5,17 @@
 ## Clique na imagem para ver o site
 
 <a href="#">
-	<img src=".github/web.png" alt="Imagem do projeto finalizado" style="border-radius: 50px;" height="600"/>
+	<img src=".github/web.png" alt="Imagem do projeto finalizado" style="border-radius: 50px;" />
 </a>
 
 </div>
 
 ## Objetivos do projeto
 
-- Criar projetos backend e frontend
-- Salvar os projeto no Github em monorepo
-- Montar o visual estático do front end
+```- Criar projetos backend e frontend
+	- Salvar os projeto no Github em monorepo
+	- Montar o visual estático do front end
+```
 
 ## Ferramentas utilizadas no projeto:
 
